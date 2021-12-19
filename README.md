@@ -1,4 +1,4 @@
-#About
+#Getting Started with Create React App
 
 Emoji Finder- Your complete set of all emojis under one roof. Project is done with HTML-CSS-JAVASCRIPT-REACT
 
