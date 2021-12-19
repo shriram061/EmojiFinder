@@ -4,7 +4,8 @@ Emoji Finder- Your complete set of all emojis under one roof. Project is done wi
 
 # Project published links
 
-link1------->  
+link1------->https://shriram061.github.io/EmojiFinder/
+[Af
 link2------->
 
 
