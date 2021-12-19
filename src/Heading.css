@@ -1,0 +1,197 @@
+.componentheader {
+    padding: 15px;
+    
+    font-weight: normal;
+    font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    color: #333;
+    background-color: black;
+  }
+  
+  .componentheader img {
+    position: relative;
+    top: 6px;
+    padding: 0 14px;
+  }
+
+
+  .App-link {
+    color: #61cffb;
+    font-size: 32px;
+    animation: App-link-spin 1s infinite;
+  }
+  @keyframes App-link-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    }
+  }
+
+
+
+.a{
+animation: a-spin 1s infinite;
+  }
+  @keyframes a-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    }
+}
+/* .b{
+  animation: b-spin 1s infinite;
+  }
+  @keyframes b-spin {
+    from{
+      color: aqua;
+    }
+    to {
+      color: greenyellow;
+      
+    }
+} */
+.c{
+ animation: c-spin 1s infinite;
+  }
+  @keyframes c-spin {
+    from{
+      color: greenyellow;
+    }
+    to {
+      color: red;
+      
+    } 
+}
+/* .d{
+animation: d-spin 1s infinite;
+  }
+  @keyframes d-spin {
+    from{
+      color: red;
+    }
+    to {
+      color: green;
+      
+    }  
+}
+.e{
+ animation: e-spin 1s infinite;
+  }
+  @keyframes e-spin {
+    from{
+      color: green;
+    }
+    to {
+      color: yellow;
+      
+    } 
+}
+.f{
+ animation: App-link-spin 1s infinite;
+  }
+  @keyframes App-link-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    } 
+}
+.g{
+ animation: App-lin-spin 1s infinite;
+  }
+  @keyframes App-lin-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    } 
+}
+.h{
+ animation: App-link-spin 1s infinite;
+  }
+  @keyframes App-link-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    } 
+}
+.i{
+ animation: App-link-spin 1s infinite;
+  }
+  @keyframes App-link-spin {
+    from{
+      color: blue;
+    }
+    to {
+      color: aqua;
+      
+    } 
+}*/
+.j{
+ animation: j-spin 1s infinite;
+  }
+  @keyframes j-spin {
+    from{
+      color: rgb(247, 11, 90);
+    }
+    to {
+      color: rgb(255, 0, 119);
+      
+    } 
+}
+/* .k{
+animation: k-spin 3s infinite;
+  }
+  @keyframes k-spin {
+    from{
+      color: rgb(255, 251, 0);
+    }
+    to {
+      color: rgb(229, 245, 6);
+      
+    }  
+}
+.l{
+animation: l-spin 3s infinite;
+  }
+  @keyframes l-spin {
+    from{
+      color: rgb(228, 253, 0);
+    }
+    to {
+      color: rgb(255, 251, 0);
+      
+    } 
+}  */
+
+
+
+
+  
+  .small-text
+  {
+    font-size: 16px;
+    animation: small-text-spin 5s infinite;
+  }
+  @keyframes small-text-spin {
+    from{
+      color: rgb(11, 199, 89);
+    }
+    to {
+      color: rgb(28, 245, 8);
+  }
+}
