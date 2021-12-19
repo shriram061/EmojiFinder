@@ -2,7 +2,7 @@
 
 Emoji Finder- Your complete set of all emojis under one roof. Project is done with HTML-CSS-JAVASCRIPT-REACT
 
-#Project Published in
+# Project published links
 
 link1------->  
 link2------->
