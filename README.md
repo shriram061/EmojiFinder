@@ -4,7 +4,9 @@ Emoji Finder- Your complete set of all emojis under one roof. Project is done wi
 
 # Project published links
 
-link1------->https://shriram061.github.io/EmojiFinder/
+link1- hosted on https://emo-ji-finder-at-fingertips.netlify.app/
+
+link2------->https://shriram061.github.io/EmojiFinder/
 [After clicking the link, search for "http://localhost:3000" and click to view the project ]
 
 
